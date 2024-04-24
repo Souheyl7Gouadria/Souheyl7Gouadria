@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souheyl Gouadria</h1>
 <h3 align="center">A passionate Software Engineering Student from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souheyl7gouadria&label=Profile%20views&color=0e75b6&style=flat" alt="souheyl7gouadria" /> </p>
 
 
 - 📫 How to reach me **souheyl.gouadria@supcom.tn**
