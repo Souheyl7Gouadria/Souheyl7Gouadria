@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souheyl7gouadria&label=Profile%20views&color=0e75b6&style=flat" alt="souheyl7gouadria" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souheyl7gouadria" alt="souheyl7gouadria" /></a> </p>
 
 - 📫 How to reach me **souheyl.gouadria@supcom.tn**
 
